@@ -1,0 +1,88 @@
+body{
+    background-image: "pic1.jpg";
+    background-repeat: repeat;
+}
+.grid-container{
+    display: grid;
+    gap: 20px 50px;
+    grid-template-columns: repeat(4,50px);
+    position: relative;
+    top: 45px;
+}
+
+.header_1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    background-color: darkorange;
+    width: 250px;
+    color: white;
+    margin-left: 625px;
+    padding: 20px;
+    border-radius: 20px;
+    border: inset black 5px;
+}
+
+.button{
+    font-size: 20px;
+    width: 70px;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 60px;
+    cursor: pointer;
+}
+
+.button-orange{
+    font-size: 20px;
+    width: 70px;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 60px;
+    cursor: pointer;
+    background-color: orange;
+}
+
+.button-oper{
+    font-size: 20px;
+    width: 70px;
+    height: 50px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 60px;
+    cursor: pointer;
+    background-color: darkslategray;
+    color: white;
+}
+
+.button:hover{
+    background-color: darkgray;
+}
+
+.button-orange:hover{
+    background-color: darkorange;
+}
+
+#input-box{
+    width: 360px;
+    position: relative;
+    bottom: 24px;
+    height: 63px;
+    border-radius: 10px;
+    top: 10px;
+    font-size: 40px;
+    text-align: end;
+    color: gray;
+}
+
+.whole-body{
+    background-color: gray;
+    padding: 50px;
+    border-radius: 20px;
+    height: 430px;
+    width: 370px;
+    margin-left: 530px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: solid black 5px;
+}
