@@ -1,0 +1,185 @@
+{
+    "opinions":[
+    {
+        "id" : 1,
+        "image": "https://pramukhswami.org/PSM/media/opinions/opinion-dalilama.jpg",
+        "title" : "The Dalai Lama",
+        "subtitle" : " ",
+        "description" : "People around the world are starting to realize that power and material objects do not yield peace. They are turning to spirituality and religion to fill a void in their lives. Religion and spirituality is the key. Your sadhus are setting an example of content, co-existence and selfless service. There is an ideal for all of mankind. His name is Pramukh Swami Maharaj."
+    },
+    {
+        "id" : 2,
+        "image" : "https://pramukhswami.org/PSM/media/opinions/opinion_chidanand_swami_djs.jpg",
+        "title" : "Pujya Swami Shri Chidananand Saraswatiji",
+        "subtitle" : "Divya Jivan Sangh, Rishikesh",
+        "description" : "Pramukh Swami Maharaj is always considerate, simple and humble. He leads a multinational organization, yet is always relaxed. He is as light as a flower. He is able to do so because he has surrendered himself to Bhagwan Swaminarayan. He continues to serve society with the aim to please God. He thinks nothing of himself. He is just a means. God works through him."
+    },
+    {
+        "id" : 3,
+        "image" : "https://pramukhswami.org/PSM/media/opinions/opinion_chinmayanand_swami.jpg",
+        "title" : "Pujya Swami Chinmayanandji",
+        "subtitle" : "Chinmaya Mission",
+        "description" : "Spiritual progress and liberation can only be attained in the company of a God-realized sadhu. Pramukh Swami Maharaj is a God-realized sadhu. His presence rids people of their materialistic desires."
+    },
+    {
+        "id" : 4,
+        "image" : "https://pramukhswami.org/PSM/wp-content/uploads/2016/08/opinion-rowanwilliams1.jpg",
+        "title" : "Dr Rowan Williams",
+        "subtitle" : "Archbishop of Canterbury",
+        "description" : "Pramukh Swami Maharaj’s life is an example of spiritual beauty. That beauty shines throughout India and the world as he continues to guide mankind on the path to spirituality. He loves unconditionally and forgives. Revenge and vengeance are never to be seen in his life. This is illustrated in his credo: “In the joy of others lies our own…”"
+    },
+    {
+        "id" : 5,
+        "image" : "https://pramukhswami.org/PSM/media/opinions/opinion-charls.jpg",
+        "title" : "HRH Prince Charles",
+        "subtitle" : "The Prince of Wales",
+        "description" : "Pramukh Swami Maharaj’s humility and selfless love have touched my heart."
+    },
+    {
+        "id" : 6,
+        "image" : "https://pramukhswami.org/PSM/media/opinions/opinion_bill_clinton.jpg",
+        "title" : "President Bill Clinton",
+        "subtitle" : "Former President, United States of America",
+        "description" : "When I look into his eyes, they are filled with integrity. I saw in his eyes that he is a man who has not come ahead by eclipsing others. He has come forward by always placing others before him."
+    },
+    {
+        "id" : 7,
+        "image" : "https://pramukhswami.org/PSM/media/opinions/opinion_ablul_kalam_.jpg",
+        "title" : "Dr A.P.J. Abdul Kalam",
+        "subtitle" : "Former President of India",
+        "description" : "I feel a very strong and divine aura in his presence. I feel at peace in his presence. I forget about all my worries and difficulties. He truly loves people unconditionally. That is why he is able to counsel and take part in their difficulties and problems. Their problems become his problems. I can see it in him."
+    },
+    {
+        "id" : 8,
+        "image" : "https://pramukhswami.org/PSM/media/opinions/opinion_narendramodi.jpg",
+        "title" : "Narendra Modi",
+        "subtitle" : "Prime Minister of India",
+        "description" : "I consider myself blessed to have closely interacted with Pujya Pramukh Swami Maharaj for years. He has deeply inspired me."
+    },
+    {
+        "id" : 9,
+        "image" : "https://pramukhswami.org/PSM/media/opinions/opinion_lalkrishna_advani.jpg",
+        "title" : "Lal Krishna Advani",
+        "subtitle" : "Former Deputy Prime Minister of India",
+        "description" : "Ancient India was known for its sadhus, sages and sadgurus. Out of all the sadhus in India, Pramukh Swami Maharaj is different. There is no doubt about his work. It rises above the rest. This is not specific to India; it is known all over the world. He is the walking and talking form of India’s spirituality and morality."
+    },
+    {
+        "id" : 10,
+        "image" : "https://pramukhswami.org/PSM/media/opinions/opinion-tonyblair.jpg",
+        "title" : "Tony Blair",
+        "subtitle" : "Former Prime Minister, United Kingdom",
+        "description" : "I had the fortune to meet Pramukh Swami Maharaj ten years ago. I was impressed then and I am impressed now. I experience spirituality like never before. It is unique. Bhagwan Swaminarayan’s spirit of social reform is living through Pramukh Swami Maharaj."
+    }
+],
+
+"timeline": [
+    {
+        "year" : "1921",
+        "desc" : "7 December (Magshar sud 8, VS 1978) Born in the village of Chansad near Vadodara, Gujarat; named Shantilal."
+    },
+    {
+        "year" : "1939",
+        "desc" : "At the age of 18 leaves home to become a sadhu."
+    },
+    {
+        "year" : "1940",
+        "desc" : "Initiated into sadhu order by his guru Shastriji Maharaj at the Akshar Deri, Gondal; named Narayanswarupdas Swami."
+    },
+    {
+        "year" : "1950",
+        "desc" : "Appointed as Pramukh (President) of Bochasanwasi Shri Akshar Purushottam Swaminarayan Sanstha (BAPS) by Shastriji Maharaj, Ahmedabad."
+    },
+    {
+        "year" : "1951",
+        "desc" : "In Sarangpur, Shastriji Maharaj passed away. Yogiji Maharaj becomes spiritual guru of BAPS. Pramukh Swami serves the BAPS under the guidance and blessings of Yogiji Maharaj."
+    },
+    {
+        "year" : "1971",
+        "desc" : "In Mumbai, Yogiji Maharaj passed away; cremation rites in Gondal. Pramukh Swami Maharaj becomes spiritual guru of BAPS."
+    },
+    {
+        "year" : "1971",
+        "desc" : "In Sankari, murti-pratishtha of the first shikharbaddha mandir by Pramukh Swami Maharaj. Over the next 45 years, he consecrated 1,100 mandirs in India and abroad."
+    },
+    {
+        "year" : "1974",
+        "desc" : "First overseas satsang tour after becoming guru. Received many ‘Key to the City’ honours. Consecrated first BAPS mandir in USA in New York."
+    },
+    {
+        "year" : "1983",
+        "desc" : "Pramukh Swami Maharaj, aged 62, suffers heart attack, Sundalpura. Even afterwards, for 30 years, he continued to serve tirelessly day and night."
+    },
+    {
+        "year" : "1987-1988",
+        "desc" : "Cattle camps and famine relief activities in Gujarat."
+    },
+    {
+        "year" : "1988",
+        "desc" : "Pramukh Swami Maharaj honoured in Canadian parliaments."
+    },
+    {
+        "year" : "1988",
+        "desc" : "Pramukh Swami Maharaj honoured in the British parliament."
+    },
+    {
+        "year" : "1991",
+        "desc" : "Cultural Festival of India, Edison, New Jersey, USA; Over 1 million visitors."
+    },
+    {
+        "year" : "1992",
+        "desc" : "Inauguration of Swaminarayan Akshardham, Gandhinagar."
+    },
+    {
+        "year" : "1993",
+        "desc" : "Relief and rehabilitation activities following earthquake in Latur, Maharashtra."
+    },
+    {
+        "year" : "1995",
+        "desc" : "Murti-pratishtha of the BAPS shikharbaddha mandir in Neasden, London.<br />BAPS granted affiliation to the United Nations as ‘NGO in Consultative Status to the Economic and Social Council of the UN’"
+    },
+    {
+        "year" : "1996",
+        "desc" : "Guinness World Records recognizes Shri Swaminarayan Mandir, London as the ‘Largest Stone Hindu Mandir Outside India’."
+    },
+    {
+        "year" : "1997",
+        "desc" : "Pramukh Swami Maharaj received at St. James’ Palace by HRH Prince Charles, The Prince of Wales."
+    },
+    {
+        "year" : "1998",
+        "desc" : "Swamishri undergoes heart bypass surgery, New York, USA."
+    },
+    {
+        "year" : "2000",
+        "desc" : "Pramukh Swami Maharaj addresses the Millennium World Peace Summit of Spiritual Leaders at the United Nations, New York, USA."
+    },
+    {
+        "year" : "2000",
+        "desc" : "Historic meeting with US President Bill Clinton and Secretary-General of the UN Kofi Annan."
+    },
+    {
+        "year" : "2005",
+        "desc" : "Opening of Swaminarayan Akshardham, New Delhi, by Pramukh Swami Maharaj, H.E. President Dr APJ Abdul Kalam, Prime Minister Shri Manmohan Singh and other dignitaries."
+    },
+    {
+        "year" : "2007",
+        "desc" : "‘Guinness World Records’ honour Pramukh Swami Maharaj as having consecrated the most mandirs and declare BAPS Akshardham temple in New Delhi as the largest Hindu temple in the world."
+    },
+    {
+        "year" : "2010",
+        "desc" : "Swamishri inaugurates the ‘BAPS Swaminarayan Research Institute’, New Delhi."
+    },
+    {
+        "year" : "2014",
+        "desc" : "<br /> 10 August<br>Pramukh Swami Maharaj performs murti-pratishtha of new shikharbaddha BAPS Shri Swaminarayan Mandir, Robbinsville, NJ, USA.<br /> 15 August <br>Pramukh Swami Maharaj performs the Bhumital Pujan ceremony of Swaminarayan Akshardham Mahamandir in Robbinsville, NJ, USA."
+    },
+    {
+        "year" : "2015",
+        "desc" : "Former President of India, Dr APJ Abdul Kalam, presents his book ‘Transcendence: My Spiritual Experiences with Pramukh Swamiji’ to Swamishri."
+    },
+    {
+        "year" : "2016",
+        "desc" : "13 August 2016 (Shravan sud 10, Samvat 2072) at 6.00 p.m Swamishri passed away at 95 years in BAPS Swaminarayan Mandir Sarangpur, India."
+    }
+]
+}
